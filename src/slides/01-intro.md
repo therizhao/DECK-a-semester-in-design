@@ -10,7 +10,7 @@ My one semester in [Industrial Design](http://www.nus.edu.sg/nusbulletin/school-
 
 #### Make stuff look pretty 💅
 
-#### Design industrial spaces 🏭
+#### Design industrial spaces? 😵
 
 #### Design stuff to earn money 🤑
 
