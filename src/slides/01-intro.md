@@ -95,9 +95,9 @@ ___
 
 ---
 
-## Making the Kueh
+## Making the Kueh 🧻
 
-<video style="margin-top: 60px;" width="1500" autoplay controls>
+<video style="margin-top: 60px;" width="800" autoplay controls>
     <source src="kueh.mp4">
 </video>
 
@@ -153,6 +153,12 @@ ___
 
 ___
 
+<video style="margin-top: 60px;" width="800" autoplay controls>
+    <source src="automata.mp4">
+</video>
+
+---
+
 # Book
 
 ---
@@ -165,12 +171,6 @@ ___
 ___
 
 
-<div style="display:flex; justify-content: center;">
-<div style="width: 800px;">
-<h3>"The ordinary that we n"</h3>
-
-<cite>Kenya Hara</cite>
-</div>
-</div>
+<img style="width: 300px; margin-bottom: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disk_pack1.svg/1200px-Disk_pack1.svg.png" />
 
 ---
